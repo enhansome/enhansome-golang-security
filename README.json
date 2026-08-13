@@ -28,7 +28,7 @@
             "last_commit": "2025-05-13T12:23:43Z",
             "owner": "justinas",
             "repo": "nosurf",
-            "stars": 1747
+            "stars": 1746
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2021-11-04T09:15:13Z",
             "owner": "dgrijalva",
             "repo": "jwt-go",
-            "stars": 10737
+            "stars": 10735
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-10T08:07:31Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8921
+            "stars": 8919
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2019-03-07T12:34:43Z",
             "owner": "alecthomas",
             "repo": "gometalinter",
-            "stars": 3474
+            "stars": 3473
           }
         },
         {
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:19.407Z",
+    "last_updated": "2026-08-13T12:29:19.732Z",
     "original_repository": "guardrailsio/awesome-golang-security",
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
