@@ -118,7 +118,7 @@
             "last_commit": "2024-06-22T22:47:09Z",
             "owner": "tomnomnom",
             "repo": "httprobe",
-            "stars": 3121
+            "stars": 3120
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-10T08:07:31Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8919
+            "stars": 8920
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2024-05-31T08:03:49Z",
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5282
+            "stars": 5283
           }
         },
         {
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:29:19.732Z",
+    "last_updated": "2026-08-14T12:26:00.899Z",
     "original_repository": "guardrailsio/awesome-golang-security",
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
