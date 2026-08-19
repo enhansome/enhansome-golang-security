@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,646 | 🐛 102 | 📅 2026-08-18 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,659 | 🐛 102 | 📅 2026-08-18 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
