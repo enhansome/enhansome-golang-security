@@ -1,311 +1,336 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "secure",
-          "description": "Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-01T20:53:04Z",
-            "owner": "unrolled",
-            "repo": "secure",
-            "stars": 2353
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "secure",
+              "description": "Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19994985,
+                "language": "Go",
+                "last_commit": "2026-05-01T20:53:04Z",
+                "owner": "unrolled",
+                "repo": "secure",
+                "stars": 2353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nosurf",
+              "description": "CSRF protection middleware for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12303687,
+                "language": "Go",
+                "last_commit": "2025-05-13T12:23:43Z",
+                "owner": "justinas",
+                "repo": "nosurf",
+                "stars": 1746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gorilla/csrf",
+              "description": "Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40097643,
+                "language": "Go",
+                "last_commit": "2025-04-14T02:56:35Z",
+                "owner": "gorilla",
+                "repo": "csrf",
+                "stars": 1205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gorilla/securecookie",
+              "description": "Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6051826,
+                "language": "Go",
+                "last_commit": "2023-11-08T15:56:24Z",
+                "owner": "gorilla",
+                "repo": "securecookie",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unindexed",
+              "description": "A drop-in replacement for which disables directory indexing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159905424,
+                "language": "Go",
+                "last_commit": "2021-12-07T22:58:56Z",
+                "owner": "jordan-wright",
+                "repo": "unindexed",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beego-security-headers",
+              "description": "beego framework filter for easy security headers management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135123452,
+                "language": "Go",
+                "last_commit": "2019-01-17T08:33:19Z",
+                "owner": "gosecguy",
+                "repo": "beego-security-headers",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Framework Hardening"
         },
         {
-          "node_type": "item",
-          "title": "nosurf",
-          "description": "CSRF protection middleware for Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-13T12:23:43Z",
-            "owner": "justinas",
-            "repo": "nosurf",
-            "stars": 1746
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jwt-go",
+              "description": "Golang implementation of JSON Web Tokens (JWT).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4059138,
+                "language": "Go",
+                "last_commit": "2021-11-04T09:15:13Z",
+                "owner": "dgrijalva",
+                "repo": "jwt-go",
+                "stars": 10735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "httprobe",
+              "description": "Take a list of domains and probe for working HTTP and HTTPS servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80510806,
+                "language": "Go",
+                "last_commit": "2024-06-22T22:47:09Z",
+                "owner": "tomnomnom",
+                "repo": "httprobe",
+                "stars": 3120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paseto",
+              "description": "Platform-Agnostic Security Tokens implementation in GO (Golang).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118562222,
+                "language": "Go",
+                "last_commit": "2023-02-25T01:40:23Z",
+                "owner": "o1egl",
+                "repo": "paseto",
+                "stars": 941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hsts",
+              "description": "Go HTTP Strict Transport Security library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38195872,
+                "language": "Go",
+                "last_commit": "2024-10-03T10:40:31Z",
+                "owner": "StalkR",
+                "repo": "hsts",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         },
         {
-          "node_type": "item",
-          "title": "gorilla/csrf",
-          "description": "Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-14T02:56:35Z",
-            "owner": "gorilla",
-            "repo": "csrf",
-            "stars": 1205
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gosec",
+              "description": "Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container securego/gosec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63625434,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:38:09Z",
+                "owner": "securego",
+                "repo": "gosec",
+                "stars": 8922
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gometalinter",
+              "description": "Concurrently runs most of the existing go linters and normalizes their output.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22629932,
+                "language": "Go",
+                "last_commit": "2019-03-07T12:34:43Z",
+                "owner": "alecthomas",
+                "repo": "gometalinter",
+                "stars": 3472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "safesql",
+              "description": "Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30325992,
+                "language": "Go",
+                "last_commit": "2021-09-20T21:02:47Z",
+                "owner": "stripe-archive",
+                "repo": "safesql",
+                "stars": 558
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChainJacking",
+              "description": "Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428590781,
+                "language": "Python",
+                "last_commit": "2026-05-22T16:10:46Z",
+                "owner": "Checkmarx",
+                "repo": "chainjacking",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Code Analysis"
         },
         {
-          "node_type": "item",
-          "title": "gorilla/securecookie",
-          "description": "Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-11-08T15:56:24Z",
-            "owner": "gorilla",
-            "repo": "securecookie",
-            "stars": 726
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "govwa",
+              "description": "A vulnerable golang application including the most common vulnerabilities found in web applications today.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105642538,
+                "language": "Go",
+                "last_commit": "2025-02-20T15:24:14Z",
+                "owner": "0c34",
+                "repo": "govwa",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lambhack",
+              "description": "A very vulnerable serverless application in AWS Lambda.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81354133,
+                "language": "Go",
+                "last_commit": "2019-10-07T16:30:37Z",
+                "owner": "wickett",
+                "repo": "lambhack",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hacking Playground"
         },
         {
-          "node_type": "item",
-          "title": "unindexed",
-          "description": "A drop-in replacement for which disables directory indexing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-12-07T22:58:56Z",
-            "owner": "jordan-wright",
-            "repo": "unindexed",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beego-security-headers",
-          "description": "beego framework filter for easy security headers management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-01-17T08:33:19Z",
-            "owner": "gosecguy",
-            "repo": "beego-security-headers",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OWASP Go - Secure Coding Practices",
+              "description": "by Checkmarx - Go programming language secure coding practices guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87070385,
+                "language": "Go",
+                "last_commit": "2024-05-31T08:03:49Z",
+                "owner": "OWASP",
+                "repo": "Go-SCP",
+                "stars": 5285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hacking with Go",
+              "description": "Hacking with Go for security professionals.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 113381841,
+                "language": "Go",
+                "last_commit": "2020-02-15T18:37:34Z",
+                "owner": "parsiya",
+                "repo": "Hacking-with-Go",
+                "stars": 1815
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "golang-tls",
+              "description": "Simple Golang HTTPS/TLS Examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85368976,
+                "language": null,
+                "last_commit": "2020-11-20T20:01:23Z",
+                "owner": "denji",
+                "repo": "golang-tls",
+                "stars": 1330
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles, Guides & Talks"
         }
       ],
-      "title": "Web Framework Hardening"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jwt-go",
-          "description": "Golang implementation of JSON Web Tokens (JWT).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-11-04T09:15:13Z",
-            "owner": "dgrijalva",
-            "repo": "jwt-go",
-            "stars": 10735
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "httprobe",
-          "description": "Take a list of domains and probe for working HTTP and HTTPS servers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-22T22:47:09Z",
-            "owner": "tomnomnom",
-            "repo": "httprobe",
-            "stars": 3120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "paseto",
-          "description": "Platform-Agnostic Security Tokens implementation in GO (Golang).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-02-25T01:40:23Z",
-            "owner": "o1egl",
-            "repo": "paseto",
-            "stars": 941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hsts",
-          "description": "Go HTTP Strict Transport Security library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-10-03T10:40:31Z",
-            "owner": "StalkR",
-            "repo": "hsts",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gosec",
-          "description": "Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container securego/gosec.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T02:44:16Z",
-            "owner": "securego",
-            "repo": "gosec",
-            "stars": 8922
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gometalinter",
-          "description": "Concurrently runs most of the existing go linters and normalizes their output.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2019-03-07T12:34:43Z",
-            "owner": "alecthomas",
-            "repo": "gometalinter",
-            "stars": 3472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "safesql",
-          "description": "Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-09-20T21:02:47Z",
-            "owner": "stripe-archive",
-            "repo": "safesql",
-            "stars": 558
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChainJacking",
-          "description": "Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-22T16:10:46Z",
-            "owner": "Checkmarx",
-            "repo": "chainjacking",
-            "stars": 64
-          }
-        }
-      ],
-      "title": "Static Code Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "govwa",
-          "description": "A vulnerable golang application including the most common vulnerabilities found in web applications today.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-20T15:24:14Z",
-            "owner": "0c34",
-            "repo": "govwa",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lambhack",
-          "description": "A very vulnerable serverless application in AWS Lambda.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-10-07T16:30:37Z",
-            "owner": "wickett",
-            "repo": "lambhack",
-            "stars": 98
-          }
-        }
-      ],
-      "title": "Hacking Playground"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OWASP Go - Secure Coding Practices",
-          "description": "by Checkmarx - Go programming language secure coding practices guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-31T08:03:49Z",
-            "owner": "OWASP",
-            "repo": "Go-SCP",
-            "stars": 5284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hacking with Go",
-          "description": "Hacking with Go for security professionals.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-02-15T18:37:34Z",
-            "owner": "parsiya",
-            "repo": "Hacking-with-Go",
-            "stars": 1815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "golang-tls",
-          "description": "Simple Golang HTTPS/TLS Examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-20T20:01:23Z",
-            "owner": "denji",
-            "repo": "golang-tls",
-            "stars": 1329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gosea",
-          "description": "Go Secure Example Application (GOSEA).",
-          "children": []
-        }
-      ],
-      "title": "Articles, Guides & Talks"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:56:11.437Z",
+    "last_updated": "2026-08-19T11:55:51.404Z",
     "original_repository": "guardrailsio/awesome-golang-security",
+    "original_repository_id": 162525428,
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
     "enhanced_repository_description": null,
