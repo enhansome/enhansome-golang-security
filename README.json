@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-01T20:53:04Z",
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2353
+                "stars": 2354
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-05-13T12:23:43Z",
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1746
+                "stars": 1747
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-04-14T02:56:35Z",
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1206
+                "stars": 1207
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2023-11-08T15:56:24Z",
                 "owner": "gorilla",
                 "repo": "securecookie",
-                "stars": 726
+                "stars": 727
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2021-12-07T22:58:56Z",
                 "owner": "jordan-wright",
                 "repo": "unindexed",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2021-11-04T09:15:13Z",
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10735
+                "stars": 10734
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2024-06-22T22:47:09Z",
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3120
+                "stars": 3119
               }
             },
             {
@@ -178,10 +178,10 @@
                 "archived": false,
                 "id": 63625434,
                 "language": "Go",
-                "last_commit": "2026-08-20T06:39:02Z",
+                "last_commit": "2026-08-20T21:54:31Z",
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8922
+                "stars": 8925
               }
             },
             {
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:57:51.967Z",
+    "last_updated": "2026-08-21T11:56:44.426Z",
     "original_repository": "guardrailsio/awesome-golang-security",
     "original_repository_id": 162525428,
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
