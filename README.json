@@ -181,7 +181,7 @@
                 "last_commit": "2026-08-21T19:33:39Z",
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8927
+                "stars": 8929
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2024-05-31T08:03:49Z",
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5283
+                "stars": 5284
               }
             },
             {
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:53:27.274Z",
+    "last_updated": "2026-08-23T11:53:18.513Z",
     "original_repository": "guardrailsio/awesome-golang-security",
     "original_repository_id": 162525428,
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
