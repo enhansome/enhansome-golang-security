@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,470 | 🐛 106 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [gosec](https://github.com/securego/gosec) ⭐ 8,930 | 🐛 13 | 🌐 Go | 📅 2026-08-21 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
+* [gosec](https://github.com/securego/gosec) ⭐ 8,930 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 * [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
