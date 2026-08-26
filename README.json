@@ -32,7 +32,7 @@
                 "last_commit": "2025-05-13T12:23:43Z",
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1748
+                "stars": 1747
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-04-14T02:56:35Z",
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1207
+                "stars": 1209
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2023-02-25T01:40:23Z",
                 "owner": "o1egl",
                 "repo": "paseto",
-                "stars": 941
+                "stars": 940
               }
             },
             {
@@ -178,10 +178,10 @@
                 "archived": false,
                 "id": 63625434,
                 "language": "Go",
-                "last_commit": "2026-08-25T08:37:38Z",
+                "last_commit": "2026-08-26T09:57:23Z",
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8931
+                "stars": 8933
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2024-05-31T08:03:49Z",
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5284
+                "stars": 5285
               }
             },
             {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:58:57.616Z",
+    "last_updated": "2026-08-26T12:00:01.608Z",
     "original_repository": "guardrailsio/awesome-golang-security",
     "original_repository_id": 162525428,
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
