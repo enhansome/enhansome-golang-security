@@ -181,7 +181,7 @@
                 "last_commit": "2026-08-26T09:57:23Z",
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8933
+                "stars": 8934
               }
             },
             {
@@ -350,9 +350,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:00:01.608Z",
-    "original_repository": "guardrailsio/awesome-golang-security",
-    "original_repository_id": 162525428,
+    "last_updated": "2026-08-27T11:41:15.269Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 162525428,
+      "language": null,
+      "last_commit": "2024-06-05T15:04:42Z",
+      "owner": "guardrailsio",
+      "repo": "awesome-golang-security",
+      "stars": 1964
+    },
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
     "enhanced_repository_description": null,
