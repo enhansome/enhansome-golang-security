@@ -17,8 +17,9 @@
                 "last_commit": "2026-05-01T20:53:04Z",
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2354
-              }
+                "stars": 2355
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "justinas",
                 "repo": "nosurf",
                 "stars": 1748
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gorilla",
                 "repo": "csrf",
                 "stars": 1209
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "gorilla",
                 "repo": "securecookie",
                 "stars": 727
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "jordan-wright",
                 "repo": "unindexed",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "gosecguy",
                 "repo": "beego-security-headers",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
                 "stars": 10734
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "tomnomnom",
                 "repo": "httprobe",
                 "stars": 3119
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "o1egl",
                 "repo": "paseto",
                 "stars": 940
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "StalkR",
                 "repo": "hsts",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -181,8 +191,9 @@
                 "last_commit": "2026-08-26T09:57:23Z",
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8934
-              }
+                "stars": 8935
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "alecthomas",
                 "repo": "gometalinter",
                 "stars": 3471
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "stripe-archive",
                 "repo": "safesql",
                 "stars": 558
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "Checkmarx",
                 "repo": "chainjacking",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9462
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -271,7 +286,8 @@
                 "owner": "0c34",
                 "repo": "govwa",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -285,8 +301,9 @@
                 "last_commit": "2019-10-07T16:30:37Z",
                 "owner": "wickett",
                 "repo": "lambhack",
-                "stars": 98
-              }
+                "stars": 97
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -308,7 +325,8 @@
                 "owner": "OWASP",
                 "repo": "Go-SCP",
                 "stars": 5285
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -323,7 +341,8 @@
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
                 "stars": 1815
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "denji",
                 "repo": "golang-tls",
                 "stars": 1331
-              }
+              },
+              "first_seen": "2026-08-28T21:30:56.404Z"
             }
           ],
           "description": null,
@@ -350,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:08:10.328Z",
+    "last_updated": "2026-08-28T21:30:56.404Z",
     "original_repository_info": {
       "archived": false,
       "id": 162525428,
@@ -358,7 +378,7 @@
       "last_commit": "2024-06-05T15:04:42Z",
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1964
+      "stars": 1962
     },
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
