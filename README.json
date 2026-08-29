@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP middleware for Go that facilitates some quick security wins.",
+                "homepage": null,
                 "id": 19994985,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-01T20:53:04Z",
+                "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2355
+                "stars": 2355,
+                "topics": [
+                  "go",
+                  "golang",
+                  "middleware",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -28,12 +38,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSRF protection middleware for Go.",
+                "homepage": "http://godoc.org/github.com/justinas/nosurf",
                 "id": 12303687,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-05-13T12:23:43Z",
+                "open_issues": 16,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1748
+                "stars": 1748,
+                "topics": [
+                  "csrf",
+                  "go",
+                  "middleware",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -44,12 +64,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒",
+                "homepage": "https://gorilla.github.io",
                 "id": 40097643,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-04-14T02:56:35Z",
+                "open_issues": 34,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1209
+                "stars": 1209,
+                "topics": [
+                  "csrf",
+                  "csrf-protection",
+                  "csrf-tokens",
+                  "go",
+                  "golang",
+                  "gorilla",
+                  "gorilla-web-toolkit",
+                  "middleware",
+                  "security",
+                  "xsrf"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -60,12 +96,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package gorilla/securecookie encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.",
+                "homepage": "https://gorilla.github.io",
                 "id": 6051826,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-08T15:56:24Z",
+                "open_issues": 10,
                 "owner": "gorilla",
                 "repo": "securecookie",
-                "stars": 727
+                "stars": 727,
+                "topics": [
+                  "cookie",
+                  "cookies",
+                  "go",
+                  "golang",
+                  "gorilla",
+                  "gorilla-web-toolkit",
+                  "securecookie",
+                  "sessions"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -76,12 +126,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Golang HTTP FileSystem that disables directory indexing",
+                "homepage": null,
                 "id": 159905424,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-12-07T22:58:56Z",
+                "open_issues": 2,
                 "owner": "jordan-wright",
                 "repo": "unindexed",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "golang",
+                  "http"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -92,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "beego framework filter for easy security headers management",
+                "homepage": null,
                 "id": 135123452,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2019-01-17T08:33:19Z",
+                "open_issues": 0,
                 "owner": "gosecguy",
                 "repo": "beego-security-headers",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -115,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:",
+                "homepage": "https://github.com/golang-jwt/jwt",
                 "id": 4059138,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-11-04T09:15:13Z",
+                "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10734
+                "stars": 10734,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -131,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Take a list of domains and probe for working HTTP and HTTPS servers",
+                "homepage": null,
                 "id": 80510806,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-22T22:47:09Z",
+                "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3119
+                "stars": 3119,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -147,12 +220,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform-Agnostic Security Tokens implementation in GO (Golang)",
+                "homepage": null,
                 "id": 118562222,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-02-25T01:40:23Z",
+                "open_issues": 7,
                 "owner": "o1egl",
                 "repo": "paseto",
-                "stars": 940
+                "stars": 940,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "decoder",
+                  "encoder",
+                  "go",
+                  "golang",
+                  "jwt",
+                  "microservice",
+                  "paseto",
+                  "past",
+                  "security",
+                  "soa",
+                  "token"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -163,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go HTTP Strict Transport Security library",
+                "homepage": "https://godoc.org/github.com/StalkR/hsts",
                 "id": 38195872,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-03T10:40:31Z",
+                "open_issues": 0,
                 "owner": "StalkR",
                 "repo": "hsts",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -186,12 +283,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go security checker",
+                "homepage": "https://securego.io",
                 "id": 63625434,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:57:23Z",
+                "open_issues": 11,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8935
+                "stars": 8935,
+                "topics": [
+                  "golang",
+                  "security",
+                  "security-automation",
+                  "security-tools",
+                  "static-analysis",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -202,12 +311,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED: Use https://github.com/golangci/golangci-lint",
+                "homepage": null,
                 "id": 22629932,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-03-07T12:34:43Z",
+                "open_issues": 0,
                 "owner": "alecthomas",
                 "repo": "gometalinter",
-                "stars": 3471
+                "stars": 3471,
+                "topics": [
+                  "go",
+                  "gometalinter",
+                  "linter"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -218,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Static analysis tool for Golang that protects against SQL injections     ",
+                "homepage": null,
                 "id": 30325992,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-09-20T21:02:47Z",
+                "open_issues": 12,
                 "owner": "stripe-archive",
                 "repo": "safesql",
-                "stars": 558
+                "stars": 558,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -234,12 +357,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find which of your direct GitHub dependencies is susceptible to RepoJacking attacks",
+                "homepage": "https://pypi.org/project/chainjacking/",
                 "id": 428590781,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-22T16:10:46Z",
+                "open_issues": 0,
                 "owner": "Checkmarx",
                 "repo": "chainjacking",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "go",
+                  "golang",
+                  "security",
+                  "supply-chain"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -257,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CFSSL: Cloudflare's PKI and TLS toolkit",
+                "homepage": "https://cfssl.org/",
                 "id": 21591001,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-24T00:37:10Z",
+                "open_issues": 338,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9462
+                "stars": 9462,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -280,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 105642538,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-02-20T15:24:14Z",
+                "open_issues": 11,
                 "owner": "0c34",
                 "repo": "govwa",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -296,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very vulnerable serverless application in AWS Lambda",
+                "homepage": null,
                 "id": 81354133,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-10-07T16:30:37Z",
+                "open_issues": 1,
                 "owner": "wickett",
                 "repo": "lambhack",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -319,12 +467,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang Secure Coding Practices guide",
+                "homepage": "https://owasp.org/www-project-go-secure-coding-practices-guide/",
                 "id": 87070385,
                 "language": "Go",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2024-05-31T08:03:49Z",
+                "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5285
+                "stars": 5285,
+                "topics": [
+                  "appsec",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -335,12 +491,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Golang for Security Professionals",
+                "homepage": null,
                 "id": 113381841,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2020-02-15T18:37:34Z",
+                "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1815
+                "stars": 1815,
+                "topics": [
+                  "go",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             },
@@ -351,12 +515,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Golang HTTPS/TLS Examples",
+                "homepage": "https://git.io/vSvsI",
                 "id": 85368976,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2020-11-20T20:01:23Z",
+                "open_issues": 4,
                 "owner": "denji",
                 "repo": "golang-tls",
-                "stars": 1331
+                "stars": 1331,
+                "topics": [
+                  "awesome",
+                  "go",
+                  "golang",
+                  "http2",
+                  "httpclient",
+                  "https",
+                  "https-server",
+                  "libressl",
+                  "openssl",
+                  "secure",
+                  "security",
+                  "security-audit",
+                  "security-hardening",
+                  "security-scanner",
+                  "security-tools",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
             }
@@ -370,15 +556,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:30:56.404Z",
+    "last_updated": "2026-08-29T04:28:19.354Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Golang Security resources 🕶🔐",
+      "homepage": null,
       "id": 162525428,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-05T15:04:42Z",
+      "open_issues": 8,
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1962
+      "stars": 1962,
+      "topics": [
+        "awesome-list",
+        "golang",
+        "security",
+        "security-tools",
+        "static-analysis"
+      ]
     },
     "original_repository_sha": "92b679cf986d72ff6dbbe586cc6ba52def49c7c6",
     "enhanced_repository": "enhansome/enhansome-golang-security",
