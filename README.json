@@ -70,10 +70,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-04-14T02:56:35Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1209,
+                "stars": 1208,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -102,10 +102,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-11-08T15:56:24Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "gorilla",
                 "repo": "securecookie",
-                "stars": 727,
+                "stars": 728,
                 "topics": [
                   "cookie",
                   "cookies",
@@ -292,7 +292,7 @@
                 "open_issues": 11,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8935,
+                "stars": 8937,
                 "topics": [
                   "golang",
                   "security",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:44:47.798Z",
+    "last_updated": "2026-08-30T15:27:06.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
