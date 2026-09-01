@@ -289,10 +289,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T08:24:49Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8936,
+                "stars": 8938,
                 "topics": [
                   "golang",
                   "security",
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5286,
+                "stars": 5288,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T18:07:24.303Z",
+    "last_updated": "2026-09-01T15:31:51.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
