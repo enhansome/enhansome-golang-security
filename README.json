@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3120,
+                "stars": 3121,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -289,10 +289,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T08:24:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8938,
+                "stars": 8937,
                 "topics": [
                   "golang",
                   "security",
@@ -399,7 +399,7 @@
                 "open_issues": 338,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9465,
+                "stars": 9466,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5288,
+                "stars": 5289,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:31:51.351Z",
+    "last_updated": "2026-09-02T15:16:00.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
