@@ -73,7 +73,7 @@
                 "open_issues": 35,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "gorilla",
                 "repo": "securecookie",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "cookie",
                   "cookies",
@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10733,
+                "stars": 10732,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -292,7 +292,7 @@
                 "open_issues": 8,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8937,
+                "stars": 8940,
                 "topics": [
                   "golang",
                   "security",
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5289,
+                "stars": 5290,
                 "topics": [
                   "appsec",
                   "golang"
@@ -524,7 +524,7 @@
                 "open_issues": 4,
                 "owner": "denji",
                 "repo": "golang-tls",
-                "stars": 1331,
+                "stars": 1330,
                 "topics": [
                   "awesome",
                   "go",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:16:00.506Z",
+    "last_updated": "2026-09-03T15:09:01.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
