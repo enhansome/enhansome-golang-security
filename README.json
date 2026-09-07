@@ -47,7 +47,7 @@
                 "open_issues": 16,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1750,
+                "stars": 1751,
                 "topics": [
                   "csrf",
                   "go",
@@ -288,8 +288,8 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T09:01:10Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-07T11:35:44Z",
+                "open_issues": 4,
                 "owner": "securego",
                 "repo": "gosec",
                 "stars": 8945,
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5290,
+                "stars": 5291,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:22:19.697Z",
+    "last_updated": "2026-09-07T16:38:35.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
@@ -568,7 +568,7 @@
       "open_issues": 8,
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1962,
+      "stars": 1961,
       "topics": [
         "awesome-list",
         "golang",
