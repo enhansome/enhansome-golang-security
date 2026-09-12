@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,057 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,334 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,10 +23,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [secure](https://github.com/unrolled/secure) ⭐ 2,354 | 🐛 0 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
-* [nosurf](https://github.com/justinas/nosurf) ⭐ 1,751 | 🐛 16 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
-* [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,209 | 🐛 35 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
-* [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 729 | 🐛 11 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
+* [secure](https://github.com/unrolled/secure) ⭐ 2,355 | 🐛 0 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
+* [nosurf](https://github.com/justinas/nosurf) ⭐ 1,752 | 🐛 16 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
+* [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,210 | 🐛 35 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
+* [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 730 | 🐛 11 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [unindexed](https://github.com/jordan-wright/unindexed) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2021-12-07 - A drop-in replacement for `http.Dir` which disables directory indexing.
 * [beego-security-headers](https://github.com/gosecguy/beego-security-headers) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2019-01-17 - beego framework filter for easy security headers management.
 
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [gosec](https://github.com/securego/gosec) ⭐ 8,945 | 🐛 5 | 🌐 Go | 📅 2026-09-07 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
+* [gosec](https://github.com/securego/gosec) ⭐ 8,945 | 🐛 6 | 🌐 Go | 📅 2026-09-07 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 * [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
@@ -61,7 +61,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [govwa](https://github.com/0c34/govwa) ⭐ 187 | 🐛 11 | 🌐 Go | 📅 2025-02-20 - A vulnerable golang application including the most common vulnerabilities found in web applications today.
+* [govwa](https://github.com/0c34/govwa) ⭐ 188 | 🐛 11 | 🌐 Go | 📅 2025-02-20 - A vulnerable golang application including the most common vulnerabilities found in web applications today.
 * [Lambhack](https://github.com/wickett/lambhack) ⭐ 97 | 🐛 1 | 🌐 Go | 📅 2019-10-07 - A very vulnerable serverless application in AWS Lambda.
 
 ## Articles, Guides & Talks
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
