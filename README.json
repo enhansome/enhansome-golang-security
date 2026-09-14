@@ -44,10 +44,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2025-05-13T12:23:43Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1752,
+                "stars": 1751,
                 "topics": [
                   "csrf",
                   "go",
@@ -70,7 +70,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-04-14T02:56:35Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "gorilla",
                 "repo": "csrf",
                 "stars": 1210,
@@ -102,7 +102,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-11-08T15:56:24Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "gorilla",
                 "repo": "securecookie",
                 "stars": 730,
@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T11:35:44Z",
+                "last_commit": "2026-09-14T12:21:11Z",
                 "open_issues": 7,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8946,
+                "stars": 8945,
                 "topics": [
                   "golang",
                   "security",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:01:38.510Z",
+    "last_updated": "2026-09-14T17:02:05.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
