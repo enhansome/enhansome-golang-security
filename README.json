@@ -70,7 +70,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-04-14T02:56:35Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "gorilla",
                 "repo": "csrf",
                 "stars": 1211,
@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3123,
+                "stars": 3124,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -288,7 +288,7 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T11:48:40Z",
+                "last_commit": "2026-09-17T09:57:21Z",
                 "open_issues": 4,
                 "owner": "securego",
                 "repo": "gosec",
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5288,
+                "stars": 5289,
                 "topics": [
                   "appsec",
                   "golang"
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1813,
+                "stars": 1812,
                 "topics": [
                   "go",
                   "security"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:31:07.986Z",
+    "last_updated": "2026-09-17T15:38:10.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
