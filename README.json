@@ -73,7 +73,7 @@
                 "open_issues": 38,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10730,
+                "stars": 10729,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -292,7 +292,7 @@
                 "open_issues": 4,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8946,
+                "stars": 8947,
                 "topics": [
                   "golang",
                   "security",
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5289,
+                "stars": 5290,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:38:10.950Z",
+    "last_updated": "2026-09-18T15:06:56.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
