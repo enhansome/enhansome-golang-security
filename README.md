@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,749 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,104 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [secure](https://github.com/unrolled/secure) ⭐ 2,355 | 🐛 0 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
+* [secure](https://github.com/unrolled/secure) ⭐ 2,356 | 🐛 0 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 * [nosurf](https://github.com/justinas/nosurf) ⭐ 1,751 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
 * [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,212 | 🐛 38 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 730 | 🐛 13 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
@@ -33,13 +33,13 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Libraries
 
 * [jwt-go](https://github.com/dgrijalva/jwt-go) ⚠️ Archived - Golang implementation of JSON Web Tokens (JWT).
-* [httprobe](https://github.com/tomnomnom/httprobe) ⭐ 3,124 | 🐛 45 | 🌐 Go | 📅 2024-06-22 - Take a list of domains and probe for working HTTP and HTTPS servers.
+* [httprobe](https://github.com/tomnomnom/httprobe) ⭐ 3,126 | 🐛 45 | 🌐 Go | 📅 2024-06-22 - Take a list of domains and probe for working HTTP and HTTPS servers.
 * [paseto](https://github.com/o1egl/paseto) ⭐ 941 | 🐛 7 | 🌐 Go | 📅 2023-02-25 - Platform-Agnostic Security Tokens implementation in GO (Golang).
 * [hsts](https://github.com/StalkR/hsts) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2024-10-03 - Go HTTP Strict Transport Security library.
 
 ## Static Code Analysis
 
-* [gosec](https://github.com/securego/gosec) ⭐ 8,947 | 🐛 5 | 🌐 Go | 📅 2026-09-17 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
+* [gosec](https://github.com/securego/gosec) ⭐ 8,948 | 🐛 8 | 🌐 Go | 📅 2026-09-17 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 * [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

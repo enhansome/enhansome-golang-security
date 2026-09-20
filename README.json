@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": [
                   "go",
                   "golang",
@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3124,
+                "stars": 3126,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -289,10 +289,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T09:57:21Z",
-                "open_issues": 5,
+                "open_issues": 8,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8947,
+                "stars": 8948,
                 "topics": [
                   "golang",
                   "security",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:44:25.181Z",
+    "last_updated": "2026-09-20T14:50:05.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
