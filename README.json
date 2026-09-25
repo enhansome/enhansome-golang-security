@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": [
                   "go",
                   "golang",
@@ -102,7 +102,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-11-08T15:56:24Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "gorilla",
                 "repo": "securecookie",
                 "stars": 730,
@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3124,
+                "stars": 3125,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -289,10 +289,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T08:23:20Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8952,
+                "stars": 8953,
                 "topics": [
                   "golang",
                   "security",
@@ -396,7 +396,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-23T18:02:53Z",
-                "open_issues": 335,
+                "open_issues": 334,
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9475,
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:53:58.411Z",
+    "last_updated": "2026-09-25T15:55:08.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
