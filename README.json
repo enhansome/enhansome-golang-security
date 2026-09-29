@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": [
                   "go",
                   "golang",
@@ -47,7 +47,7 @@
                 "open_issues": 17,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1752,
+                "stars": 1753,
                 "topics": [
                   "csrf",
                   "go",
@@ -73,7 +73,7 @@
                 "open_issues": 38,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3126,
+                "stars": 3125,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T03:08:50Z",
+                "last_commit": "2026-09-29T02:14:28Z",
                 "open_issues": 10,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8956,
+                "stars": 8955,
                 "topics": [
                   "golang",
                   "security",
@@ -399,7 +399,7 @@
                 "open_issues": 332,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9475,
+                "stars": 9478,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "go",
                   "security"
@@ -524,7 +524,7 @@
                 "open_issues": 4,
                 "owner": "denji",
                 "repo": "golang-tls",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "awesome",
                   "go",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:42:42.950Z",
+    "last_updated": "2026-09-29T16:59:36.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
@@ -568,7 +568,7 @@
       "open_issues": 9,
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1960,
+      "stars": 1961,
       "topics": [
         "awesome-list",
         "golang",
