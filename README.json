@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2358,
+                "stars": 2357,
                 "topics": [
                   "go",
                   "golang",
@@ -70,7 +70,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-04-14T02:56:35Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "gorilla",
                 "repo": "csrf",
                 "stars": 1212,
@@ -292,7 +292,7 @@
                 "open_issues": 4,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8961,
+                "stars": 8962,
                 "topics": [
                   "golang",
                   "security",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:48:34.348Z",
+    "last_updated": "2026-10-03T04:48:39.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
@@ -568,7 +568,7 @@
       "open_issues": 9,
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1961,
+      "stars": 1960,
       "topics": [
         "awesome-list",
         "golang",
