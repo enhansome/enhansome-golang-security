@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8962,
+                "stars": 8961,
                 "topics": [
                   "golang",
                   "security",
@@ -399,7 +399,7 @@
                 "open_issues": 333,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9478,
+                "stars": 9479,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:13:36.019Z",
+    "last_updated": "2026-10-04T15:57:40.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
