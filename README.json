@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": [
                   "go",
                   "golang",
@@ -208,7 +208,7 @@
                 "open_issues": 45,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3127,
+                "stars": 3126,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:40:49Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-05T09:23:24Z",
+                "open_issues": 3,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8961,
+                "stars": 8959,
                 "topics": [
                   "golang",
                   "security",
@@ -396,10 +396,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-30T19:12:57Z",
-                "open_issues": 333,
+                "open_issues": 335,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9479,
+                "stars": 9480,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5291,
+                "stars": 5292,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:57:40.074Z",
+    "last_updated": "2026-10-05T20:11:03.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
