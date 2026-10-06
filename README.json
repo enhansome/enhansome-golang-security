@@ -292,7 +292,7 @@
                 "open_issues": 3,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8959,
+                "stars": 8960,
                 "topics": [
                   "golang",
                   "security",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:10.205Z",
+    "last_updated": "2026-10-06T17:23:16.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
