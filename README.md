@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,106 | 🐛 107 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,359 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -26,14 +26,14 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 * [secure](https://github.com/unrolled/secure) ⭐ 2,358 | 🐛 0 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 * [nosurf](https://github.com/justinas/nosurf) ⭐ 1,753 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
 * [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,212 | 🐛 38 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
-* [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 730 | 🐛 14 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
+* [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 730 | 🐛 15 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [unindexed](https://github.com/jordan-wright/unindexed) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2021-12-07 - A drop-in replacement for `http.Dir` which disables directory indexing.
 * [beego-security-headers](https://github.com/gosecguy/beego-security-headers) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2019-01-17 - beego framework filter for easy security headers management.
 
 ## Libraries
 
 * [jwt-go](https://github.com/dgrijalva/jwt-go) ⚠️ Archived - Golang implementation of JSON Web Tokens (JWT).
-* [httprobe](https://github.com/tomnomnom/httprobe) ⭐ 3,126 | 🐛 45 | 🌐 Go | 📅 2024-06-22 - Take a list of domains and probe for working HTTP and HTTPS servers.
+* [httprobe](https://github.com/tomnomnom/httprobe) ⭐ 3,127 | 🐛 45 | 🌐 Go | 📅 2024-06-22 - Take a list of domains and probe for working HTTP and HTTPS servers.
 * [paseto](https://github.com/o1egl/paseto) ⭐ 941 | 🐛 7 | 🌐 Go | 📅 2023-02-25 - Platform-Agnostic Security Tokens implementation in GO (Golang).
 * [hsts](https://github.com/StalkR/hsts) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2024-10-03 - Go HTTP Strict Transport Security library.
 
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
