@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,669 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,119 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [secure](https://github.com/unrolled/secure) ⭐ 2,358 | 🐛 1 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
+* [secure](https://github.com/unrolled/secure) ⭐ 2,357 | 🐛 1 | 🌐 Go | 📅 2026-05-01 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 * [nosurf](https://github.com/justinas/nosurf) ⭐ 1,753 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
 * [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,211 | 🐛 40 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 730 | 🐛 17 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
@@ -34,7 +34,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [jwt-go](https://github.com/dgrijalva/jwt-go) ⚠️ Archived - Golang implementation of JSON Web Tokens (JWT).
 * [httprobe](https://github.com/tomnomnom/httprobe) ⭐ 3,127 | 🐛 45 | 🌐 Go | 📅 2024-06-22 - Take a list of domains and probe for working HTTP and HTTPS servers.
-* [paseto](https://github.com/o1egl/paseto) ⭐ 942 | 🐛 7 | 🌐 Go | 📅 2023-02-25 - Platform-Agnostic Security Tokens implementation in GO (Golang).
+* [paseto](https://github.com/o1egl/paseto) ⭐ 941 | 🐛 7 | 🌐 Go | 📅 2023-02-25 - Platform-Agnostic Security Tokens implementation in GO (Golang).
 * [hsts](https://github.com/StalkR/hsts) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2024-10-03 - Go HTTP Strict Transport Security library.
 
 ## Static Code Analysis
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Private Key Infrastructure
 
-* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,483 | 🐛 335 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,485 | 🐛 336 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 # Awesome Educational with stars
 
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
