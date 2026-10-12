@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T12:08:14Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-12T13:04:18Z",
+                "open_issues": 8,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8963,
+                "stars": 8965,
                 "topics": [
                   "golang",
                   "security",
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1811,
+                "stars": 1810,
                 "topics": [
                   "go",
                   "security"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:44:49.085Z",
+    "last_updated": "2026-10-12T20:24:34.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
