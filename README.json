@@ -73,7 +73,7 @@
                 "open_issues": 40,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1212,
+                "stars": 1211,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10725,
+                "stars": 10726,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -208,7 +208,7 @@
                 "open_issues": 44,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3126,
+                "stars": 3125,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -292,7 +292,7 @@
                 "open_issues": 8,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8968,
+                "stars": 8970,
                 "topics": [
                   "golang",
                   "security",
@@ -396,7 +396,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-06T18:46:09Z",
-                "open_issues": 336,
+                "open_issues": 338,
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9485,
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1810,
+                "stars": 1809,
                 "topics": [
                   "go",
                   "security"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:29:06.336Z",
+    "last_updated": "2026-10-14T15:56:51.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
@@ -568,7 +568,7 @@
       "open_issues": 9,
       "owner": "guardrailsio",
       "repo": "awesome-golang-security",
-      "stars": 1960,
+      "stars": 1961,
       "topics": [
         "awesome-list",
         "golang",
