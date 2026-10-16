@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,342 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,840 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -55,18 +55,18 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Private Key Infrastructure
 
-* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,487 | 🐛 338 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,488 | 🐛 338 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 # Awesome Educational with stars
 
 ## Hacking Playground
 
 * [govwa](https://github.com/0c34/govwa) ⭐ 187 | 🐛 11 | 🌐 Go | 📅 2025-02-20 - A vulnerable golang application including the most common vulnerabilities found in web applications today.
-* [Lambhack](https://github.com/wickett/lambhack) ⭐ 97 | 🐛 1 | 🌐 Go | 📅 2019-10-07 - A very vulnerable serverless application in AWS Lambda.
+* [Lambhack](https://github.com/wickett/lambhack) ⭐ 98 | 🐛 1 | 🌐 Go | 📅 2019-10-07 - A very vulnerable serverless application in AWS Lambda.
 
 ## Articles, Guides & Talks
 
-* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,294 | 🐛 26 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
+* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,295 | 🐛 26 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
 * [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) ⚠️ Archived - Hacking with Go for security professionals.
 * [golang-tls](https://github.com/denji/golang-tls) ⭐ 1,330 | 🐛 4 | 📅 2020-11-20 - Simple Golang HTTPS/TLS Examples.
 * [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA).
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
