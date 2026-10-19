@@ -105,7 +105,7 @@
                 "open_issues": 17,
                 "owner": "gorilla",
                 "repo": "securecookie",
-                "stars": 732,
+                "stars": 731,
                 "topics": [
                   "cookie",
                   "cookies",
@@ -288,8 +288,8 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T13:34:45Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-19T11:41:58Z",
+                "open_issues": 3,
                 "owner": "securego",
                 "repo": "gosec",
                 "stars": 8975,
@@ -396,7 +396,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-06T18:46:09Z",
-                "open_issues": 341,
+                "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9487,
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5295,
+                "stars": 5298,
                 "topics": [
                   "appsec",
                   "golang"
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1808,
+                "stars": 1806,
                 "topics": [
                   "go",
                   "security"
@@ -524,7 +524,7 @@
                 "open_issues": 4,
                 "owner": "denji",
                 "repo": "golang-tls",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "awesome",
                   "go",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:46:23.042Z",
+    "last_updated": "2026-10-19T17:44:04.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
