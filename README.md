@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,361 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,797 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [secure](https://github.com/unrolled/secure) ⭐ 2,358 | 🐛 1 | 🌐 Go | 📅 2026-10-10 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
+* [secure](https://github.com/unrolled/secure) ⭐ 2,357 | 🐛 1 | 🌐 Go | 📅 2026-10-10 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 * [nosurf](https://github.com/justinas/nosurf) ⭐ 1,754 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
 * [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,212 | 🐛 40 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 731 | 🐛 17 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [gosec](https://github.com/securego/gosec) ⭐ 8,975 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
+* [gosec](https://github.com/securego/gosec) ⭐ 8,977 | 🐛 5 | 🌐 Go | 📅 2026-10-20 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 * [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Private Key Infrastructure
 
-* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,487 | 🐛 343 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,489 | 🐛 343 | 🌐 Go | 📅 2026-10-06 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 # Awesome Educational with stars
 
@@ -66,7 +66,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Articles, Guides & Talks
 
-* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,298 | 🐛 26 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
+* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,297 | 🐛 26 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
 * [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) ⚠️ Archived - Hacking with Go for security professionals.
 * [golang-tls](https://github.com/denji/golang-tls) ⭐ 1,331 | 🐛 4 | 📅 2020-11-20 - Simple Golang HTTPS/TLS Examples.
 * [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA).
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
