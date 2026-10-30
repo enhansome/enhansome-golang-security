@@ -289,7 +289,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T13:10:09Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "securego",
                 "repo": "gosec",
                 "stars": 8991,
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:31:05.526Z",
+    "last_updated": "2026-10-30T17:08:12.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
