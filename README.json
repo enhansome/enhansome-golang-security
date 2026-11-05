@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "unrolled",
                 "repo": "secure",
-                "stars": 2358,
+                "stars": 2359,
                 "topics": [
                   "go",
                   "golang",
@@ -47,7 +47,7 @@
                 "open_issues": 17,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "csrf",
                   "go",
@@ -73,7 +73,7 @@
                 "open_issues": 40,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10721,
+                "stars": 10722,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -208,7 +208,7 @@
                 "open_issues": 44,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3123,
+                "stars": 3122,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -292,7 +292,7 @@
                 "open_issues": 2,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 8999,
+                "stars": 9000,
                 "topics": [
                   "golang",
                   "security",
@@ -396,10 +396,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-22T21:27:48Z",
-                "open_issues": 342,
+                "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9495,
+                "stars": 9498,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -476,7 +476,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Go-SCP",
-                "stars": 5299,
+                "stars": 5300,
                 "topics": [
                   "appsec",
                   "golang"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:50:27.779Z",
+    "last_updated": "2026-11-05T18:56:18.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
