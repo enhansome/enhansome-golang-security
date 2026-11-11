@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,754 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,229 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -24,8 +24,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Web Framework Hardening
 
 * [secure](https://github.com/unrolled/secure) ⭐ 2,359 | 🐛 0 | 🌐 Go | 📅 2026-11-10 -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
-* [nosurf](https://github.com/justinas/nosurf) ⭐ 1,756 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
-* [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,213 | 🐛 40 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
+* [nosurf](https://github.com/justinas/nosurf) ⭐ 1,757 | 🐛 17 | 🌐 Go | 📅 2025-05-13 - CSRF protection middleware for Go.
+* [gorilla/csrf](https://github.com/gorilla/csrf) ⭐ 1,212 | 🐛 40 | 🌐 Go | 📅 2025-04-14 - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) ⭐ 733 | 🐛 17 | 🌐 Go | 📅 2023-11-08 - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [unindexed](https://github.com/jordan-wright/unindexed) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2021-12-07 - A drop-in replacement for `http.Dir` which disables directory indexing.
 * [beego-security-headers](https://github.com/gosecguy/beego-security-headers) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2019-01-17 - beego framework filter for easy security headers management.
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [gosec](https://github.com/securego/gosec) ⭐ 9,004 | 🐛 3 | 🌐 Go | 📅 2026-11-09 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
+* [gosec](https://github.com/securego/gosec) ⭐ 9,004 | 🐛 2 | 🌐 Go | 📅 2026-11-11 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 * [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Private Key Infrastructure
 
-* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,502 | 🐛 344 | 🌐 Go | 📅 2026-10-22 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,508 | 🐛 344 | 🌐 Go | 📅 2026-10-22 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 # Awesome Educational with stars
 
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
