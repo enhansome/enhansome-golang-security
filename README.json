@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "dgrijalva",
                 "repo": "jwt-go",
-                "stars": 10722,
+                "stars": 10723,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T16:19:59Z",
+                "last_commit": "2026-11-12T13:40:27Z",
                 "open_issues": 2,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 9004,
+                "stars": 9005,
                 "topics": [
                   "golang",
                   "security",
@@ -396,7 +396,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-22T21:27:48Z",
-                "open_issues": 344,
+                "open_issues": 346,
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9508,
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:51:04.822Z",
+    "last_updated": "2026-11-12T19:05:30.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
