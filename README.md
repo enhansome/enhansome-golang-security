@@ -5,7 +5,7 @@ A curated list of awesome golang Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,932 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,420 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -42,7 +42,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 * [gosec](https://github.com/securego/gosec) ⭐ 9,012 | 🐛 12 | 🌐 Go | 📅 2026-11-20 - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec).
 * [gometalinter](https://github.com/alecthomas/gometalinter) ⚠️ Archived - Concurrently runs most of the existing go linters and normalizes their output.
 * [safesql](https://github.com/stripe/safesql) ⚠️ Archived - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
-* [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
+* [ChainJacking](https://github.com/Checkmarx/chainjacking) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
 * [CodeQL](https://securitylab.github.com/tools/codeql) - A tool that lets you query your code like data, in order to find vulnerabilities and bugs. See also [LGTM.com](https://lgtm.com) for pull request integration and running queries in the cloud.
 
 ## Vulnerabilities and Security Advisories
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Private Key Infrastructure
 
-* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,512 | 🐛 343 | 🌐 Go | 📅 2026-11-19 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [CloudFlare SSL](https://github.com/cloudflare/cfssl) ⭐ 9,514 | 🐛 343 | 🌐 Go | 📅 2026-11-19 - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 # Awesome Educational with stars
 
@@ -66,7 +66,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Articles, Guides & Talks
 
-* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,305 | 🐛 29 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
+* [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) ⭐ 5,304 | 🐛 29 | 🌐 Go | 📅 2024-05-31 by Checkmarx - Go programming language secure coding practices guide.
 * [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) ⚠️ Archived - Hacking with Go for security professionals.
 * [golang-tls](https://github.com/denji/golang-tls) ⭐ 1,326 | 🐛 4 | 📅 2026-11-15 - Simple Golang HTTPS/TLS Examples.
 * [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA).
@@ -93,4 +93,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
