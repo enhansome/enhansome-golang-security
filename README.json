@@ -208,7 +208,7 @@
                 "open_issues": 44,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3123,
+                "stars": 3125,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -288,11 +288,11 @@
                 "id": 63625434,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T03:00:38Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-26T11:48:46Z",
+                "open_issues": 19,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 9024,
+                "stars": 9026,
                 "topics": [
                   "golang",
                   "security",
@@ -396,10 +396,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-19T18:39:06Z",
-                "open_issues": 344,
+                "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9521,
+                "stars": 9522,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -500,7 +500,7 @@
                 "open_issues": 5,
                 "owner": "parsiya",
                 "repo": "Hacking-with-Go",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "go",
                   "security"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:37:20.068Z",
+    "last_updated": "2026-11-26T20:30:03.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
