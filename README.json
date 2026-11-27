@@ -47,7 +47,7 @@
                 "open_issues": 17,
                 "owner": "justinas",
                 "repo": "nosurf",
-                "stars": 1757,
+                "stars": 1759,
                 "topics": [
                   "csrf",
                   "go",
@@ -73,7 +73,7 @@
                 "open_issues": 40,
                 "owner": "gorilla",
                 "repo": "csrf",
-                "stars": 1210,
+                "stars": 1212,
                 "topics": [
                   "csrf",
                   "csrf-protection",
@@ -208,7 +208,7 @@
                 "open_issues": 44,
                 "owner": "tomnomnom",
                 "repo": "httprobe",
-                "stars": 3125,
+                "stars": 3124,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -292,7 +292,7 @@
                 "open_issues": 19,
                 "owner": "securego",
                 "repo": "gosec",
-                "stars": 9026,
+                "stars": 9027,
                 "topics": [
                   "golang",
                   "security",
@@ -399,7 +399,7 @@
                 "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9522,
+                "stars": 9521,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:30:56.404Z"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:30:03.477Z",
+    "last_updated": "2026-11-27T20:16:19.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Golang Security resources 🕶🔐",
